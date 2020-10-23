@@ -1,5 +1,10 @@
 # beer-calculator
 
+Trying to find the best value beer? There are lots of variables: size of can, size of slab, ABV etc.
+
+This app aims to help calculate the best value beer taking in all these variables and removing
+government excise.
+
 ## Project setup
 ```
 npm install
@@ -19,6 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
